@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class BasePage {
 	
+	//Comment
 	public WebDriver driver;
 	public BasePage(WebDriver driver)
 	{
